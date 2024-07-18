@@ -25,5 +25,3 @@ for row in rates_table.find_all("tr"):
     }
 
 print(json.dumps(rates))
-
-# Invoke-WebRequest -Uri "https://www.bpi.com.ph/personal/bank/forex/rates" | Select-Object -ExpandProperty Content | python parse.py
