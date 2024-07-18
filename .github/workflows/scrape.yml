@@ -15,7 +15,7 @@ jobs:
     - name: Fetch latest data
       run: |-
         curl 'https://www.bpi.com.ph/personal/bank/forex/rates' \
-          -X POST --data-raw 'showFeatured=False' | jq > bpi-forex-rates.json
+          | python3 parse.py | jq > bpi-forex-rates.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
