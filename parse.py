@@ -2,7 +2,8 @@ import sys
 
 from bs4 import BeautifulSoup
 
-soup = BeautifulSoup(sys.argv[1], 'html.parser')
+html = sys.stdin.read()
+soup = BeautifulSoup(html, 'html.parser')
 rates_table = soup.find("table")
 
 rates = {}
