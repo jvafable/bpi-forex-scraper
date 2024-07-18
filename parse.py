@@ -1,3 +1,4 @@
+import json
 import sys
 
 from bs4 import BeautifulSoup
@@ -23,4 +24,6 @@ for row in rates_table.find_all("tr"):
         "Selling Rate (PHP)" : selling_rate
     }
 
-print(rates)
+print(json.dumps(rates))
+
+# Invoke-WebRequest -Uri "https://www.bpi.com.ph/personal/bank/forex/rates" | Select-Object -ExpandProperty Content | python parse.py
