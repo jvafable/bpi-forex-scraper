@@ -1,42 +1,42 @@
 {
   "(USD) US Dollar": {
-    "Buying Rate (PHP)": 62.25,
-    "Selling Rate (PHP)": 62.75
+    "Buying Rate (PHP)": 62.2,
+    "Selling Rate (PHP)": 62.7
   },
   "(EUR) Euro": {
-    "Buying Rate (PHP)": 71.1262,
-    "Selling Rate (PHP)": 74.2996
+    "Buying Rate (PHP)": 71.1127,
+    "Selling Rate (PHP)": 74.5746
   },
   "(JPY) Japanese Yen": {
-    "Buying Rate (PHP)": 0.3982,
-    "Selling Rate (PHP)": 0.4159
+    "Buying Rate (PHP)": 0.3983,
+    "Selling Rate (PHP)": 0.4178
   },
   "(HKD) Hong Kong Dollar": {
-    "Buying Rate (PHP)": 7.8782,
-    "Selling Rate (PHP)": 8.0648
+    "Buying Rate (PHP)": 7.8724,
+    "Selling Rate (PHP)": 8.0915
   },
   "(AUD) Australian Dollar": {
-    "Buying Rate (PHP)": 44.1372,
-    "Selling Rate (PHP)": 46.1038
+    "Buying Rate (PHP)": 44.0769,
+    "Selling Rate (PHP)": 46.2195
   },
   "(SGD) Singapore Dollar": {
-    "Buying Rate (PHP)": 48.8609,
-    "Selling Rate (PHP)": 50.0231
+    "Buying Rate (PHP)": 48.8218,
+    "Selling Rate (PHP)": 50.1868
   },
   "(CAD) Canadian Dollar": {
-    "Buying Rate (PHP)": 44.7412,
-    "Selling Rate (PHP)": 45.8134
+    "Buying Rate (PHP)": 44.6925,
+    "Selling Rate (PHP)": 45.9496
   },
   "(GBP) British Pound": {
-    "Buying Rate (PHP)": 82.8343,
-    "Selling Rate (PHP)": 86.5333
+    "Buying Rate (PHP)": 82.7927,
+    "Selling Rate (PHP)": 86.8536
   },
   "(CHF) Swiss Franc": {
-    "Buying Rate (PHP)": 75.4838,
-    "Selling Rate (PHP)": 78.8753
+    "Buying Rate (PHP)": 75.5149,
+    "Selling Rate (PHP)": 79.1968
   },
   "(CNY) Chinese Yuan*": {
-    "Buying Rate (PHP)": 9.2101,
-    "Selling Rate (PHP)": 9.4284
+    "Buying Rate (PHP)": 9.2046,
+    "Selling Rate (PHP)": 9.4612
   }
 }
